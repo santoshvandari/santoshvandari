@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://santoshbhandari1.com.np](https://santoshbhandari1.com.np)
 
-- 💬 Ask me about **HTML,CSS,JS,PHP,Java,C,C++**
+- 💬 Ask me about **HTML,CSS,JS,PHP,Java,C**
 
 - 📫 How to reach me **santoshvandari1@gmail.com**
 
