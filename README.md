@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,Java,C**
 
-- 📫 How to reach me **	info@bhandari-santosh.com.np**
+- 📫 How to reach me **info@bhandari-santosh.com.np**
 
 - ⚡ Fun fact **I don't want to Learn Anything.**
 
