@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Backend Language**
 
-- 👨‍💻 All of my projects are available at [https://santoshbhandari1.com.np](https://santoshbhandari1.com.np)
+- 👨‍💻 All of my projects are available at [https://bhandari-santosh.com.np](https://bhandari-santosh.com.np)
 
 - 💬 Ask me about **HTML,CSS,JS,PHP,Java,C**
 
