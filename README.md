@@ -16,7 +16,7 @@
 <a href="https://twitter.com/santoshvandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santoshvandari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santosh-bhandari-09b6a820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-bhandari-09b6a820a" height="30" width="40" /></a>
   <a href="https://instagram.com/santosh.vandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh.vandari" height="30" width="40" /></a>
-<a href="https://fb.com/santosh.bhandari.8945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh.bhandari.8945" height="30" width="40" /></a>
+<a href="https://fb.com/santoshvandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santoshvandari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
