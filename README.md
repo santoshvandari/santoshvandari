@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/wa_bi_sabi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wa_bi_sabi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santosh-bhandari-09b6a820a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santosh-bhandari-09b6a820a" height="30" width="40" /></a>
+  <a href="https://instagram.com/santosh.vandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santosh.vandari" height="30" width="40" /></a>
 <a href="https://fb.com/santosh.bhandari.8945" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="santosh.bhandari.8945" height="30" width="40" /></a>
 </p>
 
