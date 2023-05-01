@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **info@bhandari-santosh.com.np**
 
-- ⚡ Fun fact **I don't want to Learn Anything.**
+- ⚡ Fun fact **I don't want to Learn Anything But Want to Know Everything.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
