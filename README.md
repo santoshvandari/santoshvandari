@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Santosh Bhandari</h1>
-<h3 align="center">A passionate Web Developer from Nepal</h3>
+<h2 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=600&size=30&center=true&vCenter=true&pause=1000&color=F7F7F7&width=435&lines=Web+Developer;Wordpress+Developer;Video+Editor;Content+Writer;Graphic+Designer;Learner)](https://git.io/typing-svg)
+
+</h2>
+<!-- <h3 align="center">A passionate Web Developer from Nepal</h3> -->
 
 - 🌱 I’m currently learning **Backend Language**
 
