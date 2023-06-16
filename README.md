@@ -1,4 +1,4 @@
-  <div align="center">
+  <div align="center" style="height: 400px; overflow: hidden;">
         <img src="img/img.avif" alt="Image" width="100%"/>
 </div>  
 <h1 align="left" style="font-weight:bold">Hi 👋, I'm Santosh Bhandari</h1>
@@ -19,7 +19,7 @@
 
 ## Connect with Me
 <p align="left">
-<a href="https://twitter.com/santoshvandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Santosh Bhandari" height="30" width="40" /></a><a href="https://t.me/wabi_sa_bi" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-3691230-3073750.png?f=avif&w=256" alt="Santosh Bhandari" height="30" width="40" /></a>
+<a href="https://twitter.com/santoshvandari" target="blank"><img align="center" src="img/twitter.png" alt="Santosh Bhandari" height="30" width="40" /></a><a href="https://t.me/wabi_sa_bi" target="blank"><img align="center" src="img/telegram.png" alt="Santosh Bhandari" height="30" width="40" /></a>
 </p>
 <br/>
 
