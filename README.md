@@ -1,4 +1,5 @@
-  <div align="center" style='height: 400px; background: url("img/img.avif") center center/cover; no-repeat'>
+  <div align="center">
+        <img src="img/img.avif" alt="Image" width="100%">
 </div>  
 <h1 align="left" style="font-weight:bold">Hi 👋, I'm Santosh Bhandari</h1>
 
