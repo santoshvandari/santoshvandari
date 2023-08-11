@@ -19,7 +19,7 @@
 
 ## Connect with Me
 <p align="left">
-<a href="https://twitter.com/santoshvandari" target="blank"><img align="center" src="img/twitter.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://t.me/santoshvandari" target="blank"><img align="center" src="img/telegram.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://www.reddit.com/user/santosh-vandari" target="blank"><img align="center" src="img/reddit.png" alt="Santosh Bhandari" height="40" width="40" /></a>
+<a href="https://twitter.com/santoshvandari" target="blank"><img align="center" src="img/twitter.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://instagram.com/santosh.vandari" target="blank"><img align="center" src="img/instagram.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://t.me/santoshvandari" target="blank"><img align="center" src="img/telegram.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://www.reddit.com/user/santosh-vandari" target="blank"><img align="center" src="img/reddit.png" alt="Santosh Bhandari" height="40" width="40" /></a>
 </p>
 <br/>
 
