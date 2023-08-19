@@ -3,8 +3,10 @@
 </div>  
 <h1 align="left" style="font-weight:bold">Hi 👋, I'm Santosh Bhandari</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=49AC64&width=580%&lines=A+passionate+Web+Developer+from+Nepal%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=49AC64&width=580%&lines=Web+Developer+from+Nepal%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
 </h3>
+
+  Hey, I am Santosh Bhandari!!!
 
 - 🌱 I’m currently learning **Backend Language**
 
