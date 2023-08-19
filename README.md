@@ -26,7 +26,9 @@
 <br/>
 
 ## My Skill Set  
-<table border="1px"><tr><td valign="top" width="33%">
+<table border="1px">
+<tr>
+<td valign="top" width="33%">
 
 ### Frontend Technologies  
 <div align="center">  
@@ -38,7 +40,8 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>  </td>
+</div>  
+</td>
 <td valign="top" width="33%">
 
 ### Programming Language  
@@ -60,7 +63,8 @@
 </div>
 </td>
 </tr>
-<tr><td valign="top" width="33%">
+<tr>
+<td valign="top" width="33%">
 
 ### Backend Technologies
 <div align="center">  
@@ -81,7 +85,9 @@
 <a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 <br/>  
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshvandari&theme=default) 
