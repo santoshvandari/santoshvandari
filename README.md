@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=49AC64&width=580%&lines=Web+Developer+from+Nepal%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
 </h3>
 
-<p align="left" sytle="font-size:1rem;font-weight:bold;">“Keep Smiling, Because Life is a Beautiful Thing and There’s so much to Smile About.” <br/>Marilyn Monroe</p>
+<p align="left" sytle="font-size:1rem; font-weight:bold;">“Keep Smiling, Because Life is a Beautiful Thing and There’s so much to Smile About.” <br/>Marilyn Monroe</p>
 
 - 🌱 I’m currently learning **Backend Language**
 
