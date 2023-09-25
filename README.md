@@ -90,12 +90,13 @@
 </table>  
 <br/>  
 
-### Random Dev Quote
+## Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
+## 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+## GitHub Stat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshvandari&theme=default) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santoshvandari&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santoshvandari&theme=default) 
