@@ -99,7 +99,7 @@
 ## GitHub Stat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshvandari&theme=transparent) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santoshvandari&theme=default)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santoshvandari&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santoshvandari&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santoshvandari&theme=transparent) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshvandari&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santoshvandari&theme=transparent&utcOffset=8)
 
