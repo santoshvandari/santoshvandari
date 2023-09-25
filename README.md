@@ -103,5 +103,5 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshvandari&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santoshvandari&theme=transparent&utcOffset=8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&&theme=transparent&utcOffset=8) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&&theme=transparent) 
 
