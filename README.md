@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
         <img src="img/img.avif" alt="Image" width="100%"/>
 </div>  
 <h1 align="left" style="font-weight:bold">Hi 👋, I'm Santosh Bhandari</h1>
