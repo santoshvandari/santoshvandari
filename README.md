@@ -1,31 +1,31 @@
-<!-- <div align="center">
+<div align="center">
         <img src="img/img.avif" alt="Image" width="100%"/>
-</div>   -->
+</div>   
 <h1 align="left" style="font-weight:bold">Hi 👋, I'm Santosh Bhandari</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=49AC64&width=580%&lines=Web+Developer+from+Nepal%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg)
-</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=49AC64&width=580%&lines=Web+Developer+from+Nepal%F0%9F%87%B3%F0%9F%87%B5)](https://git.io/typing-svg) 
+
 
 **<p align="left">“Keep Smiling, Because Life is a Beautiful Thing and There’s so much to Smile About.” <br/>Marilyn Monroe</p>**
 
-<!-- - 🌱 I’m currently learning **Backend Language** -->
+- 🌱 I’m currently learning **Backend Language** 
 
-<!-- - 👨‍💻 All of my projects are available at [https://bhandari-santosh.com.np](https://bhandari-santosh.com.np) -->
+- 👨‍💻 All of my projects are available at [https://bhandari-santosh.com.np](https://bhandari-santosh.com.np) 
 
-<!-- - 💬 Ask me about **HTML,CSS,JS,PHP,Java,C** -->
+- 💬 Ask me about **HTML,CSS,JS,PHP,Java,C** 
 
-<!-- - 📫 How to reach me **info@bhandari-santosh.com.np** -->
+- 📫 How to reach me **info@bhandari-santosh.com.np** 
 
-<!-- - ⚡ Fun fact **I don't want to Learn Anything But Want to Know Everything.** -->
-<!-- <br/> -->
+- ⚡ Fun fact **I don't want to Learn Anything But Want to Know Everything.** 
+<br/> 
 
-<!-- ## Connect with Me
+## Connect with Me
 <p align="left">
 <a href="https://twitter.com/santoshvandari" target="blank"><img align="center" src="img/twitter.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://instagram.com/santosh.vandari" target="blank"><img align="center" src="img/instagram.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://t.me/santoshvandari" target="blank"><img align="center" src="img/telegram.png" alt="Santosh Bhandari" height="40" width="40"/></a> <a href="https://www.reddit.com/user/santosh-vandari" target="blank"><img align="center" src="img/reddit.png" alt="Santosh Bhandari" height="40" width="40" /></a>
 </p>
-<br/> -->
+<br/>
 
-<!-- ## My Skill Set  
+## My Skill Set  
 <table border="1px">
 <tr>
 <td valign="top" width="33%">
@@ -87,7 +87,7 @@
 
 </td>
 </tr>
-</table>   -->
+</table>  
 <br/>  
 
 ## Random Dev Quote
@@ -96,11 +96,11 @@
 ## Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-<!-- ## GitHub Stat
+## GitHub Stat
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshvandari&theme=transparent) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santoshvandari&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=santoshvandari&theme=transparent) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshvandari&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santoshvandari&theme=transparent&utcOffset=8)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&&theme=transparent)  -->
+![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&&theme=transparent) 
