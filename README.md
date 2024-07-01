@@ -108,3 +108,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshvandari&theme=transparent)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=santoshvandari&theme=transparent&utcOffset=8)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&&theme=transparent) 
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
