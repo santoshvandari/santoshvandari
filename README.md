@@ -110,10 +110,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&&theme=transparent) 
 
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/santoshvandari/santoshvandari/output/snake.svg" alt="Snake animation" />
-
-###
