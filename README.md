@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Backend Language** 
 
-- 👨‍💻 All of my projects are available at [https://bhandari-santosh.com.np](https://bhandari-santosh.com.np) 
-
 - 💬 Ask me about **Django** 
 
 - 📫 How to reach me **info@bhandari-santosh.com.np** 
