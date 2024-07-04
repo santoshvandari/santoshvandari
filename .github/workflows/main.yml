@@ -32,8 +32,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git config --global user.name 'Santosh Bhandari'
+          git config --global user.email 'santoshvandari1@gmail.com'
           git add img/snake.svg
           git commit -m "Generate snake animation"
           git push
