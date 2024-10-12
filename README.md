@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend Language** 
 
-- 💬 Ask me about **Django** 
+- 💬 Ask me about **Django,FastAPI** 
 
 - 📫 How to reach me **info@bhandari-santosh.com.np** 
 
@@ -64,6 +64,7 @@
 <div align="center">  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
 </div>
 
 </td>
