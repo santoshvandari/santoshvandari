@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend Language** 
 
-- 💬 Ask me about **Django,FastAPI** 
+- 💬 Ask me about **Python,Django,FastAPI** 
 
 - 📫 How to reach me **info@bhandari-santosh.com.np** 
 
