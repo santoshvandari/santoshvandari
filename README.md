@@ -4,13 +4,9 @@
 <h1 align="left" style="font-weight:bold">Hi 👋, I'm Santosh Bhandari</h1>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&pause=1000&color=49AC64&width=580%&lines=Web+Developer+from+Nepal%F0%9F%87%B3%F0%9F%87%B5)
-
-
-**<p align="left">“Keep Smiling, Because Life is a Beautiful Thing and There’s so much to Smile About.” <br/>Marilyn Monroe</p>**
-
 - 🌱 I’m currently learning **Backend Language** 
 
-- 💬 Ask me about **Python,Django,FastAPI** 
+- 💬 Ask me about **Python,Django,FastAPI,Flask** 
 
 - 📫 How to reach me **info@bhandari-santosh.com.np** 
 
@@ -61,6 +57,7 @@
 <div align="center">  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>       
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img style="margin: 10px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="Flask" height="50" /></a>       
 
 </div>
 
