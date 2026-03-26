@@ -20,9 +20,9 @@ Backend Developer building scalable systems and AI-powered applications.
 
 ### Tech Stack
 
-**Backend:** Python, FastAPI, Django, Flask
-**Frontend:** React, JavaScript, HTML, CSS
-**Database:** PostgreSQL, MongoDB, MySQL
+* **Backend:** Python, FastAPI, Django, Flask 
+* **Frontend:** React, JavaScript, HTML, CSS 
+* **Database:** PostgreSQL, MongoDB, MySQL 
 
 ---
 
