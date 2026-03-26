@@ -41,10 +41,10 @@ Backend Developer building scalable systems and AI-powered applications.
 
 ### GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshvandari\&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshvandari&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshvandari\&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=santoshvandari&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari\&theme=transparent)
+![](https://github-readme-streak-stats.herokuapp.com/?user=santoshvandari&theme=transparent)
 
 ---
